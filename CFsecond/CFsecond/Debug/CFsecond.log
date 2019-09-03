@@ -1,0 +1,2 @@
+﻿  file.cpp
+d:\gitlirary\filesecond\cfsecond\cfsecond\file.cpp(130): warning C4305: “初始化”: 从“CFile::OpenMode”到“bool”截断
